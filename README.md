@@ -16,19 +16,13 @@ I’m passionate about Python programming, software development and learning new
 * 💻 Practicing Data Structures and Algorithms
 * 🤝 Open to learning, collaboration and job opportunities
 
-⸻
+### 💻 Languages and Tools
 
-🛠️ Tech Stack
-
-🎨 Frontend
-
-⚙️ Backend
-
-🗄️ Database
-
-🔧 Tools & Technologies
-
-⸻
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 🚀 My Projects
 
