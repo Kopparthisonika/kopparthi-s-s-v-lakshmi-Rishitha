@@ -1,44 +1,53 @@
 # kopparthi-s-s-v-lakshmi-Rishitha
-# Hi 👋, I'm Rishitha
+👋 Hi, I’m Kopparthi S. S. V. Lakshmi Rishitha
 
-### Python Developer | B.Tech CSE Graduate
+💻 Python Developer | B.Tech CSE Graduate
 
-🚀 Passionate about learning new technologies and building projects.
+I’m passionate about Python programming, software development and learning new technologies. I enjoy building projects, improving my coding skills and exploring new opportunities in technology.
 
-### 👩‍💻 About Me
+⸻
 
-- 🎓 B.Tech in Computer Science and Engineering
-- 🌱 Currently learning Python and Full Stack Development
-- 💻 Interested in Python Programming and Web Development
-- 📚 Practicing Data Structures and Algorithms
-- 🤝 Open to learning and collaboration
+📌 About Me
 
-### 🛠️ Tech Stack
+* 🎓 B.Tech Graduate in Computer Science and Engineering (2026)
+* 🐍 Interested in Python Programming and Software Development
+* 🌱 Currently improving my skills in Python, Java and Web Development
+* 💡 Interested in Artificial Intelligence and Machine Learning
+* 💻 Practicing Data Structures and Algorithms
+* 🤝 Open to learning, collaboration and job opportunities
 
-- Python
-- Java (Basics)
-- HTML
-- CSS
-- JavaScript
-- SQL
-- MySQL
-- Django
+⸻
 
-### 💻 Languages and Tools
+🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+🎨 Frontend
 
-### 📌 My Projects
+⚙️ Backend
 
-- Hand Gesture Based Virtual Mouse
-- Bank Management System
-- Python Mini Projects
+🗄️ Database
 
-### 📫 Connect With Me
+🔧 Tools & Technologies
 
-- LinkedIn: Add your LinkedIn URL
-- GitHub: Add your GitHub profile URL
+⸻
+
+🚀 My Projects
+
+1. Hand Gesture Based Virtual Mouse
+
+Developed a virtual mouse using Python that allows users to control the computer cursor using hand gestures. Used OpenCV and MediaPipe to detect hand movements and PyAutoGUI to perform mouse operations.
+
+Technologies: Python, OpenCV, MediaPipe, PyAutoGUI, NumPy.
+
+2. Bank Management System
+
+Developed a simple banking application using Python to perform basic banking operations such as creating accounts, depositing money, withdrawing money and checking account balances.
+
+Technologies: Python.
+
+🌱 Let’s Connect!
+
+I’m always interested in learning new technologies, improving my programming skills and connecting with fellow developers.
+
+Thank you for visiting my GitHub profile! 😊
+
+⭐ Keep Learning | Keep Building | Keep Growing 🚀
